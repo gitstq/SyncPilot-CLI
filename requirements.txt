@@ -1,0 +1,18 @@
+# SyncPilot-CLI - Zero Dependency File Sync Engine
+# 轻量级终端智能文件同步与备份引擎
+#
+# This project uses only Python standard library - no external dependencies required!
+# 本项目仅使用Python标准库，无需外部依赖！
+#
+# Python Version Required: >= 3.8
+
+# Optional dependencies for enhanced functionality (all optional)
+# 可选依赖用于增强功能（全部可选）
+
+# Development dependencies (not required for usage)
+# 开发依赖（使用时不需要）
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+# black>=22.0.0
+# flake8>=5.0.0
+# mypy>=1.0.0
